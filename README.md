@@ -1,14 +1,14 @@
 # Cyberbullying-Detection-System
 
-### B.Tech Final Year Project (Group-16)
+### B.Tech Final Year Project (Group-16)  
+### Computer Science and Information Technology Department
 ### KIET Group of Institutions, Ghaziabad
 
-Introduction:-
+Introduction:-  
 •	Bullying is an intentional, aggressive and repeated behavior that could be physical, verbal, sexual or mental. With rise of social media coupled with the Covid-19 pandemic, cyberbullying has reached all time highs. As social media usage becomes increasingly prevalent in every age group, most of us rely on this essential medium for our day-to-day communication.    
-
 •	Such large usage means that cyberbullying can effectively impact anyone at anytime or anywhere. The anonymity of internet makes such attacks more difficult to stop than traditional bullying.  
 
-Statistics
+Statistics  
 •	On April 15th 2020, UNICEF issued a warning in response to the increased risk of cyberbullying.  
 •	As per Times Of India 52,974 incidents of cyber crimes were reported in year 2021 in India.  
 •	Around 85 per cent of Indian children have reported being cyberbullied as well as having cyberbullied someone else at rates well over twice the international average.  
